@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>array0</key>
+	<array>
+		<string>郭松</string>
+	</array>
+	<key>array1</key>
+	<array>
+		<string>曹立恒</string>
+		<string>陈斯远</string>
+		<string>杜克瑞</string>
+		<string>赵伟</string>
+		<string>李想</string>
+		<string>刘建涛</string>
+		<string>石伟东</string>
+		<string>王大伟</string>
+		<string>吴桐</string>
+		<string>于浩程</string>
+		<string>张云波</string>
+		<string>刘元超</string>
+		<string>孔凡瑜</string>
+		<string>刘利洋</string>
+		<string>孟欣冉</string>
+		<string>胡杨</string>
+		<string>孙文君</string>
+	</array>
+</dict>
+</plist>
